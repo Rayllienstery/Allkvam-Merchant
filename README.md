@@ -1,6 +1,4 @@
-## Welcome to privacy policy and terms and conditions page!
-
-Privacy Policy
+## Privacy Policy!
 
 Technomagic Fox (Konstantin Kolosov) built the Allkvam Merchant app as a Freemium app. This SERVICE is provided by Technomagic Fox (Konstantin Kolosov) at no cost and is intended for use as is.
 
